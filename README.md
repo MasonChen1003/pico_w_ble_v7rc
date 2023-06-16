@@ -18,8 +18,6 @@ https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
 為網路上 google 到的內容修改為 V7RC 可用
 
 
-主要測試的 code，搭配 V7RC 坦克模式來使用
-
 
 ## 主要測試的 code，搭配 V7RC 坦克模式來使用
 ===================================================
