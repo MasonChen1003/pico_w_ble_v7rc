@@ -7,6 +7,9 @@ Pico W 需先更新最新支援 BLE 功能的 micropython 韌體
 官方韌體 link : 
 https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
 
+![image](pico_w_firmware.jpg)
+
+
 兩個 library 
 - ble_advertising.py 
 內容為 connecting-to-the-internet-with-pico-w.pdf section6.1 
