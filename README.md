@@ -25,4 +25,6 @@ https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
 
 ![image](example.jpg)
 
+![image](test_example.jpg)
+
 
