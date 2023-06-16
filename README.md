@@ -12,7 +12,7 @@ https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
 
 兩個 library 
 - ble_advertising.py 
-內容為 connecting-to-the-internet-with-pico-w.pdf section6.1 
+內容為 connecting-to-the-internet-with-pico-w.pdf 書上的 section6.1 範例 
 
 - ble_uart_v7rc.py
 為網路上 google 到的內容修改為 V7RC 可用
