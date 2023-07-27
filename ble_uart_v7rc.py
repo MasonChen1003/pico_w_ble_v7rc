@@ -1,3 +1,4 @@
+#update code for android device by Mason 
 import bluetooth
 from ble_advertising import advertising_payload
 from ble_advertising import advertising_resp_payload
