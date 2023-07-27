@@ -1,7 +1,8 @@
 
    
 # Pico W 藍牙搭配手機 V7RC app
-# 2023/07/27 update ios / android 皆可用了
+# 2023/07/27 update 
+# ios / android 皆可用了
 
 Pico W 需先更新最新支援 BLE 功能的 micropython 韌體
 官方韌體 link : 
